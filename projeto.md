@@ -3,6 +3,7 @@ Esse projeto consiste em um desafio da minha faculdade de Desenvolvimento Web.
 Para esta entrega, será fornecido um código do Instagram que possui apenas HTML e CSS. Você deverá transformá-lo em um projeto React, seguindo os requisitos descritos abaixo.
 
 🛠️ Recursos
+
 Essa versão do instagram tem algumas coisinhas a mais em relação àquele que você fez anteriormente! Então baixe o arquivo abaixo como ponto de partida. Ele já possui o layout do site pronto, com HTML, CSS e as imagens necessárias. Caminho: C:\Users\SABBAG\Desktop\Instagram-React\projeto__instagram-react__base
 
 ✅ Requisitos
@@ -78,9 +79,9 @@ Essa versão do instagram tem algumas coisinhas a mais em relação àquele que 
             - Caso a postagem já esteja curtida, ao clicar no ícone, a postagem deve passar para não curtida.
         - Ao clicar na imagem de um post do feed, o usuário poderá curtir a postagem, ou seja, o botão do like deverá ficar preenchido em vermelho.
             OBS: assim como no Instagram de verdade, clicar na imagem NÃO retira likes, apenas adiciona caso já não tenha.
-        - Sobre a frase de “Curtido por fulano e outras xxx pessoas”:
+        - Sobre a frase de "Curtido por fulano e outras xxx pessoas":
             - O número de likes deverá aumentar quando a pessoa der um like e diminuir quando retirá-lo.
-            - O início da frase “Curtido por fulano” pode ter qualquer valor no lugar de fulano, não precisa ser o nome do usuário logado nem mudar quando o post for curtido.
+            - O início da frase "Curtido por fulano" pode ter qualquer valor no lugar de fulano, não precisa ser o nome do usuário logado nem mudar quando o post for curtido.
         - Todos os posts devem começar não curtidos por padrão.
 
     - É avaliado o estado da aplicação. Alguns estados são determinados por post, como salvar post e dar like em post, de forma que quando você dá like em um único post, os demais devem permanecer inalterados. 
