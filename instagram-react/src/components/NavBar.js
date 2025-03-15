@@ -3,7 +3,7 @@ export default function NavBar() {
     <div className="navbar">
       <div className="container">
         <div className="logo">
-          <img src="assets/img/logo.png" alt="logo" />
+          <ion-icon name="logo-instagram"></ion-icon>
           <div className="separador"></div>
           <img src="assets/img/logo.png" alt="logo" />
         </div>
