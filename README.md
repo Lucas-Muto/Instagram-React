@@ -41,28 +41,6 @@ npm start
 
 O projeto estará disponível em `http://localhost:3000`
 
-## Estrutura do Projeto
-instagram-react/
-├── public/
-│ ├── css/
-│ │ ├── reset.css
-│ │ └── style.css
-│ ├── assets/
-│ │ └── img/
-│ └── index.html
-└── src/
-├── components/
-│ ├── App.js
-│ ├── Body.js
-│ ├── NavBar.js
-│ ├── Posts.js
-│ ├── Stories.js
-│ ├── Suggestions.js
-│ ├── SideBar.js
-│ └── User.js
-└── index.js
-
-
 ## Componentes
 
 - **App**: Componente principal que organiza toda a aplicação
